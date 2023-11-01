@@ -11,3 +11,9 @@ body {
     width: 400px;
     height: 400px;
 }
+
+.navigation p {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
